@@ -43,6 +43,7 @@ Specialized in **SAP Business One** integrations:
 - CI/CD pipeline creation and maintenance using **Jenkins**
 - Server deployment and administration (Linux & Windows)
 - Application deployment and infrastructure management
+- Virtualization and containerization: **Docker**, **Vagrant**
 
 ### 🤖 Current Focus
 
