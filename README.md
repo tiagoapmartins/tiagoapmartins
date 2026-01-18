@@ -6,7 +6,16 @@
 
 ## 💼 Professional Background
 
-I'm a software developer with experience since **2019**, specializing in full-stack development and enterprise integrations.
+I'm a software developer with experience since **2019**, specializing in full-stack development and enterprise integrations. 
+
+### 👥 Team Leadership
+
+I lead a team of 4 developers in delivering enterprise solutions. My responsibilities include:
+- Conducting stakeholder sessions to gather requirements and understand business needs
+- Translating business requirements into technical estimates and feature blueprints
+- Assigning tasks strategically based on team members' skillsets and expertise
+- Tracking project progress and ensuring milestone achievements
+- Presenting quarterly progress reports to stakeholders
 
 ### 🚀 Core Technologies
 
