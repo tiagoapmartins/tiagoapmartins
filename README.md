@@ -6,7 +6,7 @@
 
 ## 💼 Professional Background
 
-I'm a software developer with experience since **2019**, specializing in full-stack development and enterprise integrations. 
+I'm a software developer with professional experience since **2019**, specializing in full-stack development and enterprise integrations. 
 
 ### 👥 Team Leadership
 
