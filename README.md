@@ -44,6 +44,7 @@ Specialized in **SAP Business One** integrations:
 - Server deployment and administration (Linux & Windows)
 - Application deployment and infrastructure management
 - Virtualization and containerization: **Docker**, **Vagrant**
+- Cloud platforms: **AWS** (Elastic Beanstalk, EC2)
 
 ### 🤖 Current Focus
 
