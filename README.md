@@ -1,4 +1,4 @@
-# Greetings, I'm Tiago Martins 👋
+# Hi, I'm Tiago Martins
 
 ## 🎓 Education
 - **Master's Degree** in Cybersecurity and Digital Forensics
@@ -10,7 +10,7 @@ I'm a software developer with professional experience since **2019**, specializi
 
 ### 👥 Team Leadership
 
-I lead a team of 4 developers in delivering enterprise solutions. My responsibilities include:
+I lead a team of 4 developers in delivering enterprise solutions. My responsibilities included:
 - Conducting stakeholder sessions to gather requirements and understand business needs
 - Translating business requirements into technical estimates and feature blueprints
 - Assigning tasks strategically based on team members' skillsets and expertise
@@ -22,7 +22,7 @@ I lead a team of 4 developers in delivering enterprise solutions. My responsibil
 **Web Development:**
 - Frontend: JavaScript, TypeScript, React.js
 - Build Tools: Webpack, Vite, Rollup, Gulp
-- Backend: PHP, Node.js
+- Backend: PHP, Node.js, Python
 
 **Backend & Systems:**
 - Golang
